@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [Missy Tee](https://missy-tee-shop.herokuapp.com/)
 
-- 🌱 I’m currently learning **I am currently learning how to code with react.js**
+- 🌱 I’m currently learning **I am currently learning how to code with alpinejs.js**
 
-- 💬 Ask me about **js and react**
+- 💬 Ask me about **js and aplinejs**
 
 - 📫 How to reach me **hlomla.tapuko@gmail.com**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@okuhle_tapuko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@okuhle_tapuko" height="30" width="40" /></a>
+<a href="https://twitter.com/@OTapuko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@okuhle_tapuko" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hlomla tapuko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hlomla tapuko" height="30" width="40" /></a>
 <a href="https://fb.com/okuhle tapuko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="okuhle tapuko" height="30" width="40" /></a>
 <a href="https://instagram.com/h.o.t_of_cpt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h.o.t_of_cpt" height="30" width="40" /></a>
